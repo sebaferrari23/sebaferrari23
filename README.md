@@ -10,14 +10,17 @@ A passionate Frontend developer from Argentina.
 <a href="http://instagram.com/sebaferrari" target="_blank">
 <img align="left" alt="Sebastian Ferrari Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
+<br/>
+<br/>
 
-## What i'm up to
+### What i'm up to
 - 🔭 I’m working at **[Flydevs](https://www.flydevs.com/)**
 - 👨‍💻 I’m currently working with **React**
 - 🌱 I’m learning **Node.js**, **Express** and **MongoDB**
 - 👾 In my free time I’m learning game dev with Unity and C#
+<br/>
 
-## Languages and Tools:
+### Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a>
@@ -51,8 +54,9 @@ A passionate Frontend developer from Argentina.
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
+<br/>
 
-## GitHub Stats:
+### GitHub Stats:
 <a href="https://github.com/sebaferrari23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaferrari23&hide=handlebars,html" alt="Most used languages" />
 </a>
