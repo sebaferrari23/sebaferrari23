@@ -15,9 +15,9 @@ A passionate Frontend developer from Argentina.
 
 ### What i'm up to
 - 🔭 I’m working at **[Flydevs](https://www.flydevs.com/)**
-- 👨‍💻 I’m currently working with **React**
+- 👨‍💻 I’m currently working with **React** and **React Native**
 - 🌱 I’m learning **Node.js**, **Express** and **MongoDB**
-- 👾 In my free time I’m learning game dev with Unity and C#
+- 👾 In my free time I’m learning game dev with **Unity** and **C#**
 <br/>
 
 ### Languages and Tools:
