@@ -7,9 +7,6 @@ A passionate Frontend developer from Argentina.
 <a href="https://www.linkedin.com/in/sebaferrari/" target="_blank">
 <img align="left" alt="Sebastian Ferrari LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-<a href="http://instagram.com/sebaferrari" target="_blank">
-<img align="left" alt="Sebastian Ferrari Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
-</a>
 <br/>
 <br/>
 
