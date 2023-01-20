@@ -1,5 +1,5 @@
 ## Hi 👋, I'm **[Sebastian Ferrari](https://sebaferrari.com.ar)**
-A passionate Frontend developer from Argentina.
+A passionate Front-end developer from Argentina.
 
 <a href="https://twitter.com/sebaferrari23" target="_blank">
 <img align="left" alt="Sebastian Ferrari Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
@@ -14,7 +14,6 @@ A passionate Frontend developer from Argentina.
 - 🔭 I’m working at **[Flydevs](https://www.flydevs.com/)**
 - 👨‍💻 I’m currently working with **React** and **React Native**
 - 🌱 I’m learning **Node.js**, **Express** and **MongoDB**
-- 👾 In my free time I’m learning game dev with **Unity** and **C#**
 <br/>
 
 ### Languages and Tools:
@@ -30,11 +29,3 @@ A passionate Frontend developer from Argentina.
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
 <br/>
-
-### GitHub Stats:
-<a href="https://github.com/sebaferrari23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaferrari23&hide=handlebars,html" alt="Most used languages" />
-</a>
-<a href="https://github.com/sebaferrari23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaferrari23&show_icons=true&line_height=27&count_private=true" alt="Sebastian Ferrari's GitHub Stats" />
-</a>
